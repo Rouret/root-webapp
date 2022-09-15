@@ -1,0 +1,9 @@
+@import "./base.css";
+
+a {
+  text-decoration: none;
+  font-family: monospace, serif;
+  letter-spacing: 0.02em;
+  font-size: 15px;
+  color: #fff;
+}
